@@ -1,0 +1,12 @@
+{
+  "name": "ec-cube/issue5844",
+  "version": "1.0.0",
+  "description": "https://github.com/EC-CUBE/ec-cube/issues/5844",
+  "type": "eccube-plugin",
+  "require": {
+    "ec-cube/plugin-installer": "~0.0.6 || ^2.0@dev"
+  },
+  "extra": {
+    "code": "Issue5844"
+  }
+}
